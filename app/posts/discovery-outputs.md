@@ -1,5 +1,6 @@
 ---
 title: Discovery outcomes
+description: Key out comes from the discovery phase was underwent Service Assessment in early 2022
 date: 2022-06-28
 ---
 ## Pre-Discovery
